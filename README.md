@@ -1,6 +1,7 @@
 # Calculator-written-to-the--file
 
 --TÜRKÇE AÇIKLAMA--
+
 Hesap makinesi Python dili ile yazılmıştır. Arayüz yoktur, işlemler "Islemler" adında .txt dosyasına yazılır.
 
 --ENGLISH DESCRIPTON--
